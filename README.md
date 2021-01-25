@@ -4,5 +4,5 @@ This app detect the Face , Emaotion, Face part like nose,eyes ,chin etc..
 
 ## [Live application](https://girishgodage.in/facedetector/) 
 
-![](app.gif)
+![](app.gif?v=4&s=100)
 
